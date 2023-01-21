@@ -1,0 +1,18 @@
+body{
+  background-color: #319999;
+}
+
+.traffic{
+  display: flex;
+  flex-direction: column;
+  vertical-align: center;
+  width: 200px;
+  height: 500px;
+  margin: 0 auto;
+  background-color: #131212;
+  margin-top: 150px;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 10%;
+}
+
